@@ -1,3 +1,4 @@
 # mon_blog
 exercice Adrar 03/03/26
-modif
+modif local
+modif en ligne
